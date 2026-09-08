@@ -12,9 +12,9 @@ This folder contains the source code for my professional portfolio website.
 - One verified machine-learning project
 - Direct links to project source code and results
 
-## Live portfolio
+## Live Portfolio
 
-https://anika-goel-data-portfolio.airtribe-gen-2650.chatgpt.site
+[Anika Portfolio](https://anika-goel-data-portfolio.airtribe-gen-2650.chatgpt.site)
 
 ## Run locally
 
