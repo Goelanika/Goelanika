@@ -19,3 +19,7 @@ python analysis.py
 ```
 
 The script generates `data/customers.csv`, KPI tables and an executive chart. Data is synthetic, reproducible and contains no real customer information.
+
+## Dashboard Preview
+
+![Banking Churn Dashboard](./outputs/churn_dashboard.png)
