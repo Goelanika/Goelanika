@@ -19,3 +19,7 @@ python analysis.py
 ```
 
 The script generates synthetic SKU-level data, output tables and a dashboard chart. It uses a fixed seed and contains no confidential company data.
+
+## Dashboard Preview
+
+![Inventory Dashboard](./outputs/inventory_dashboard.png)
