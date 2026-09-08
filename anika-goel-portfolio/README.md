@@ -14,7 +14,7 @@ This folder contains the source code for my professional portfolio website.
 
 ## Anika Portfolio
 
-[View Anika Portfolio](https://github.com/Goelanika/Goelanika/tree/main/anika-goel-portfolio)
+[View Anika Portfolio](https://goelanika.github.io/Goelanika/)
 
 ## Run locally
 
