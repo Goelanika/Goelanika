@@ -1,6 +1,6 @@
 # Hi, I'm Anika Goel
 
-B.Tech Computer Science Engineering (AI & ML) fresher focused on entry-level Data Analyst roles.
+B.Tech Computer Science Engineering (AI & ML) fresher focused on entry-level Data Analyst roles & AI.
 
 ## Data Analytics Portfolio
 
