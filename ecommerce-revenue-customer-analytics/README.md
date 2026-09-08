@@ -25,3 +25,7 @@ pip install -r requirements.txt
 python analysis.py
 ```
 The script creates `data/orders.csv` and analysis outputs. Data is synthetic and generated with a fixed seed; no real customer information is included.
+
+## Dashboard Preview
+
+![E-Commerce Dashboard](./outputs/executive_dashboard.png)
